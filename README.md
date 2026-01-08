@@ -1,20 +1,20 @@
-# 💊 Aplikasi Manajemen Apotek Mini (Flutter + Firebase)
+#  Aplikasi Manajemen Apotek Mini (Flutter + Firebase)
 
 Aplikasi **Manajemen Apotek Mini** berbasis **Flutter** yang dirancang untuk membantu pengelolaan data apotek secara digital, mulai dari autentikasi pengguna hingga manajemen data obat dan transaksi.  
 Project ini dibuat sebagai **latihan praktik / tugas sekolah** dengan pendekatan **clean architecture** dan UI profesional.
 
 ---
 
-## ✨ Fitur Utama
+##  Fitur Utama
 
-### 🔐 Authentication
+###  Authentication
 - Login
 - Register (Sign Up)
 - Logout
 - Validasi form
 - Session login (user tetap login)
 
-### 📦 Manajemen Data (CRUD)
+###  Manajemen Data (CRUD)
 - **Obat**
   - Nama obat
   - Kategori
@@ -25,12 +25,12 @@ Project ini dibuat sebagai **latihan praktik / tugas sekolah** dengan pendekatan
 - **Transaksi Penjualan**
 - Create, Read, Update, Delete (CRUD) penuh
 
-### 📊 Dashboard
+###  Dashboard
 - Total jumlah obat
 - Informasi stok
 - Tampilan ringkas & informatif
 
-### 🎨 UI / UX
+###  UI / UX
 - Desain **profesional & modern**
 - Tidak menggunakan UI default / basic
 - Material Design
@@ -39,7 +39,7 @@ Project ini dibuat sebagai **latihan praktik / tugas sekolah** dengan pendekatan
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+##  Teknologi yang Digunakan
 
 - **Flutter** (latest stable)
 - **Firebase**
@@ -51,5 +51,4 @@ Project ini dibuat sebagai **latihan praktik / tugas sekolah** dengan pendekatan
 
 ---
 
-## 📁 Struktur Project (Ringkas)
 
