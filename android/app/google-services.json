@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "715548714374",
+    "project_id": "apotik-260ed",
+    "storage_bucket": "apotik-260ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715548714374:android:cc1e2a472befabc83ff807",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_praktek_uk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeGGHQiA9Ta8jeIznLEESB-4QqJrF3sx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
